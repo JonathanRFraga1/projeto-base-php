@@ -15,10 +15,10 @@ Um pequeno projeto de MVC básico em PHP, incluindo testes e migrations.
 
 ## Para criar uma migrarion:
 
-```php commands.php migration:create 'nome-da-migration'```
+```php migration.php migration:create 'nome-da-migration'```
 
 ## Para rodar as migrations:
 
-```php commands.php migration:run```
+```php migration.php migration:run```
 
 

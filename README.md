@@ -5,7 +5,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Projeto MVC Básico PHP**
-| :label: Tecnologias | PHP, MySQL, CSS, HTML, Java
+| :label: Tecnologias | PHP, MySQL, CSS, HTML, JavaScript
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
